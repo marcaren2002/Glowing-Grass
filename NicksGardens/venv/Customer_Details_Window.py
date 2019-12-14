@@ -9,7 +9,7 @@ white = (255,255,255)
 grey = (10,10,10)
 
 # setting up the window
-font_colour = black
+font_colour = red
 screen = pygame.display.set_mode((750, 590))
 pygame.display.set_caption("Customer details")
 button_inactive_colour = green
